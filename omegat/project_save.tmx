@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T150339Z" creationid="Pedro Albuquerque" creationdate="20210504T150339Z">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T144141Z" creationid="Pedro Albuquerque" creationdate="20210504T144141Z">
         <seg>Opções de filtros Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T150335Z" creationid="Pedro Albuquerque" creationdate="20210504T150335Z">
+        <seg>Opções de filtros Okapi XLIFF</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
