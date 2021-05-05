@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073525Z" creationid="Pedro Albuquerque" creationdate="20210505T073525Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072840Z" creationid="Pedro Albuquerque" creationdate="20210505T072840Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072206Z" creationid="Pedro Albuquerque" creationdate="20210505T072206Z">
         <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073541Z" creationid="Pedro Albuquerque" creationdate="20210505T073541Z">
+        <seg>Assistência de conteúdo disponível</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073329Z" creationid="Pedro Albuquerque" creationdate="20210505T073329Z">
+        <seg>X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073213Z" creationid="Pedro Albuquerque" creationdate="20210505T073213Z">
         <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073513Z" creationid="Pedro Albuquerque" creationdate="20210505T073451Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +178,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073219Z" creationid="Pedro Albuquerque" creationdate="20210505T073219Z">
         <seg>Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073346Z" creationid="Pedro Albuquerque" creationdate="20210505T073346Z">
+        <seg>Localizar o quê:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073549Z" creationid="Pedro Albuquerque" creationdate="20210505T073549Z">
+        <seg>Localizar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +226,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072229Z" creationid="Pedro Albuquerque" creationdate="20210505T072229Z">
         <seg>Ficheiros HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073414Z" creationid="Pedro Albuquerque" creationdate="20210505T073414Z">
+        <seg>L</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073529Z" creationid="Pedro Albuquerque" creationdate="20210505T073529Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073138Z" creationid="Pedro Albuquerque" creationdate="20210505T073138Z">
@@ -238,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073316Z" creationid="Pedro Albuquerque" creationdate="20210505T073316Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073435Z" creationid="Pedro Albuquerque" creationdate="20210505T073435Z">
+        <seg>Marcar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072246Z" creationid="Pedro Albuquerque" creationdate="20210505T072246Z">
@@ -248,8 +328,8 @@
       <tuv lang="en">
         <seg>Match case</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073252Z" creationid="Pedro Albuquerque" creationdate="20210505T073252Z">
-        <seg>Comparar maiúsculas</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073312Z" creationid="Pedro Albuquerque" creationdate="20210505T073252Z">
+        <seg>Sensível a maiúsculas</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073421Z" creationid="Pedro Albuquerque" creationdate="20210505T073421Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072650Z" creationid="Pedro Albuquerque" creationdate="20210505T072650Z">
@@ -438,10 +526,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073520Z" creationid="Pedro Albuquerque" creationdate="20210505T073500Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073313Z" creationid="Pedro Albuquerque" creationdate="20210505T073313Z">
+        <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073224Z" creationid="Pedro Albuquerque" creationdate="20210505T073224Z">
         <seg>Substituir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073430Z" creationid="Pedro Albuquerque" creationdate="20210505T073430Z">
+        <seg>Substituir tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073352Z" creationid="Pedro Albuquerque" creationdate="20210505T073352Z">
+        <seg>Substituir por:</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,10 +734,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073323Z" creationid="Pedro Albuquerque" creationdate="20210505T073323Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073306Z" creationid="Pedro Albuquerque" creationdate="20210505T073306Z">
+        <seg>Só palavras completas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072311Z" creationid="Pedro Albuquerque" creationdate="20210505T072311Z">
         <seg>Ficheiros Wordfast Pro TXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073335Z" creationid="Pedro Albuquerque" creationdate="20210505T073335Z">
+        <seg>Quebra</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +810,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072044Z" creationid="Pedro Albuquerque" creationdate="20210505T072044Z">
         <seg>Tem de especificar um caminho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073338Z" creationid="Pedro Albuquerque" creationdate="20210505T073338Z">
+        <seg>Q</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
