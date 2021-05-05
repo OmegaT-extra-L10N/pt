@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074251Z" creationid="Pedro Albuquerque" creationdate="20210505T074251Z">
+        <seg>Impossível refazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074233Z" creationid="Pedro Albuquerque" creationdate="20210505T074233Z">
+        <seg>Impossível desfazer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072206Z" creationid="Pedro Albuquerque" creationdate="20210505T072206Z">
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073711Z" creationid="Pedro Albuquerque" creationdate="20210505T073711Z">
         <seg>Caracteres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074331Z" creationid="Pedro Albuquerque" creationdate="20210505T074331Z">
+        <seg>Escolha que texto colar do texto recentemente na área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074351Z" creationid="Pedro Albuquerque" creationdate="20210505T074351Z">
+        <seg>Histórico da área de transferência:</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +304,8 @@
       <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071549Z" creationid="Pedro Albuquerque" creationdate="20210504T150339Z">
-        <seg>As definições dos filtros são actualmente &lt;b&gt;Específicas do projecto&lt;/b&gt;.&lt;br&gt;Por isso, depois de clicar em "Aceitar", o ficheiro de parâmetros será copiado para este local:&lt;br&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074418Z" creationid="Pedro Albuquerque" creationdate="20210504T150339Z">
+        <seg>As definições dos filtros são actualmente &lt;b&gt;Específicas do projecto&lt;/b&gt;.&lt;br&gt;Por isso, após clicar em "Aceitar", o ficheiro de parâmetros será copiado para este local:&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +370,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073128Z" creationid="Pedro Albuquerque" creationdate="20210505T073128Z">
         <seg>Ir para linha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074259Z" creationid="Pedro Albuquerque" creationdate="20210505T074259Z">
+        <seg>H</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074315Z" creationid="Pedro Albuquerque" creationdate="20210505T074315Z">
+        <seg>Colar do histórico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073658Z" creationid="Pedro Albuquerque" creationdate="20210505T073658Z">
@@ -746,6 +794,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073520Z" creationid="Pedro Albuquerque" creationdate="20210505T073500Z">
         <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074258Z" creationid="Pedro Albuquerque" creationdate="20210505T074258Z">
+        <seg>Reaplica a última acção desfeita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074245Z" creationid="Pedro Albuquerque" creationdate="20210505T074245Z">
+        <seg>Refazer</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074213Z" creationid="Pedro Albuquerque" creationdate="20210505T074213Z">
+        <seg>Seleccionar tudo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072020Z" creationid="Pedro Albuquerque" creationdate="20210505T072003Z">
@@ -842,6 +914,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072701Z" creationid="Pedro Albuquerque" creationdate="20210505T072701Z">
         <seg>Seleccionar o pacote OMT a importar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074221Z" creationid="Pedro Albuquerque" creationdate="20210505T074221Z">
+        <seg>Selecciona todo o texto no documento de texto actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +978,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072307Z" creationid="Pedro Albuquerque" creationdate="20210505T072307Z">
         <seg>Ficheiros TagEditor TTX (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074240Z" creationid="Pedro Albuquerque" creationdate="20210505T074240Z">
+        <seg>Retira a última acção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1066,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072135Z" creationid="Pedro Albuquerque" creationdate="20210505T072135Z">
         <seg>Impossível determinar a pasta do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074226Z" creationid="Pedro Albuquerque" creationdate="20210505T074226Z">
+        <seg>Desfazer</seg>
       </tuv>
     </tu>
     <tu>
