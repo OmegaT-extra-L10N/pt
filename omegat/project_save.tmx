@@ -736,8 +736,8 @@
       <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073658Z" creationid="Pedro Albuquerque" creationdate="20210505T073658Z">
-        <seg>CAminho:</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074516Z" creationid="Pedro Albuquerque" creationdate="20210505T073658Z">
+        <seg>Caminho:</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="en">
         <seg>Re-applies the last action undone.</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074258Z" creationid="Pedro Albuquerque" creationdate="20210505T074258Z">
-        <seg>Reaplica a última acção desfeita.</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074523Z" creationid="Pedro Albuquerque" creationdate="20210505T074258Z">
+        <seg>Re-aplica a última acção desfeita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="en">
         <seg>Regex</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073313Z" creationid="Pedro Albuquerque" creationdate="20210505T073313Z">
-        <seg>Regex</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074504Z" creationid="Pedro Albuquerque" creationdate="20210505T073313Z">
+        <seg>Expressão regular</seg>
       </tuv>
     </tu>
     <tu>
