@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072840Z" creationid="Pedro Albuquerque" creationdate="20210505T072840Z">
+        <seg>Já existe outro pacote com o mesmo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072206Z" creationid="Pedro Albuquerque" creationdate="20210505T072206Z">
@@ -18,6 +26,38 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072150Z" creationid="Pedro Albuquerque" creationdate="20210505T072150Z">
         <seg>Erro de cópia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072757Z" creationid="Pedro Albuquerque" creationdate="20210505T072757Z">
+        <seg>Criação de um novo projecto a partir do pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072952Z" creationid="Pedro Albuquerque" creationdate="20210505T072952Z">
+        <seg>Quer eliminar o pacote OMT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072817Z" creationid="Pedro Albuquerque" creationdate="20210505T072806Z">
+        <seg>Deseja substituí-lo pela tradução do pacote?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072851Z" creationid="Pedro Albuquerque" creationdate="20210505T072851Z">
+        <seg>Deseja sobrescrever este pacote?</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +122,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071913Z" creationid="Pedro Albuquerque" creationdate="20210505T071913Z">
         <seg>Incluir o nome da unidade de tradução nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072733Z" creationid="Pedro Albuquerque" creationdate="20210505T072733Z">
+        <seg>Pacote OMT inválido, falta o ficheiro "omegat.project".</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +206,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072923Z" creationid="Pedro Albuquerque" creationdate="20210505T072923Z">
+        <seg>Pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072723Z" creationid="Pedro Albuquerque" creationdate="20210505T072723Z">
+        <seg>Ficheiro de pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072918Z" creationid="Pedro Albuquerque" creationdate="20210505T072918Z">
+        <seg>Pacote OMT criado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T144141Z" creationid="Pedro Albuquerque" creationdate="20210504T144141Z">
@@ -178,6 +250,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072250Z" creationid="Pedro Albuquerque" creationdate="20210505T072250Z">
         <seg>Ficheiros OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072905Z" creationid="Pedro Albuquerque" creationdate="20210505T072905Z">
+        <seg>Sobrescrever o pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072833Z" creationid="Pedro Albuquerque" creationdate="20210505T072807Z">
+        <seg>Sobrescrever ficheiro project_save.tmx</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072713Z" creationid="Pedro Albuquerque" creationdate="20210505T072713Z">
+        <seg>Seleccionar o local e nome do pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072701Z" creationid="Pedro Albuquerque" creationdate="20210505T072701Z">
+        <seg>Seleccionar o pacote OMT a importar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071930Z" creationid="Pedro Albuquerque" creationdate="20210505T071930Z">
@@ -262,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072930Z" creationid="Pedro Albuquerque" creationdate="20210505T072930Z">
+        <seg>O pacote foi desempacotado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072103Z" creationid="Pedro Albuquerque" creationdate="20210505T072103Z">
         <seg>O ficheiro de parâmetros não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072806Z" creationid="Pedro Albuquerque" creationdate="20210505T072806Z">
+        <seg>O projecto já tem uma tradução em curso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +418,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072604Z" creationid="Pedro Albuquerque" creationdate="20210505T072604Z">
         <seg>Desempacotar o projecto de ficheiro OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072748Z" creationid="Pedro Albuquerque" creationdate="20210505T072748Z">
+        <seg>Actualização do projecto actual com o conteúdo do pacote OMT</seg>
       </tuv>
     </tu>
     <tu>
