@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T150339Z" creationid="Pedro Albuquerque" creationdate="20210504T150339Z">
-        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071549Z" creationid="Pedro Albuquerque" creationdate="20210504T150339Z">
+        <seg>As definições dos filtros são actualmente &lt;b&gt;Específicas do projecto&lt;/b&gt;.&lt;br&gt;Por isso, depois de clicar em "Aceitar", o ficheiro de parâmetros será copiado para este local:&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +26,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T150335Z" creationid="Pedro Albuquerque" creationdate="20210504T150335Z">
         <seg>Opções de filtros Okapi XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071627Z" creationid="Pedro Albuquerque" creationdate="20210505T071627Z">
+        <seg>Utilizar as pré-definições de filtro (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071903Z" creationid="Pedro Albuquerque" creationdate="20210505T071903Z">
+        <seg>Utilize o seguinte ficheiro de parâmetros de filtragem:</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
