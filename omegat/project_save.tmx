@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073210Z" creationid="Pedro Albuquerque" creationdate="20210505T073210Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072206Z" creationid="Pedro Albuquerque" creationdate="20210505T072206Z">
@@ -34,6 +42,38 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072757Z" creationid="Pedro Albuquerque" creationdate="20210505T072757Z">
         <seg>Criação de um novo projecto a partir do pacote OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073242Z" creationid="Pedro Albuquerque" creationdate="20210505T073242Z">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073009Z" creationid="Pedro Albuquerque" creationdate="20210505T073009Z">
+        <seg>Eliminar pacote OMT desempacotado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073121Z" creationid="Pedro Albuquerque" creationdate="20210505T073121Z">
+        <seg>A eliminar projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073229Z" creationid="Pedro Albuquerque" creationdate="20210505T073229Z">
+        <seg>Direcção:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073236Z" creationid="Pedro Albuquerque" creationdate="20210505T073236Z">
+        <seg>Abaixo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072223Z" creationid="Pedro Albuquerque" creationdate="20210505T072223Z">
         <seg>Ficheiros Doxygen comentados (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073213Z" creationid="Pedro Albuquerque" creationdate="20210505T073213Z">
+        <seg>Erro</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073219Z" creationid="Pedro Albuquerque" creationdate="20210505T073219Z">
+        <seg>Localizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072507Z" creationid="Pedro Albuquerque" creationdate="20210505T072507Z">
@@ -98,6 +162,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072444Z" creationid="Pedro Albuquerque" creationdate="20210505T072444Z">
         <seg>Problemas de correspondências aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073128Z" creationid="Pedro Albuquerque" creationdate="20210505T073128Z">
+        <seg>Ir para linha</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +222,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073138Z" creationid="Pedro Albuquerque" creationdate="20210505T073138Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073137Z" creationid="Pedro Albuquerque" creationdate="20210505T073137Z">
+        <seg>Número de linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072246Z" creationid="Pedro Albuquerque" creationdate="20210505T072246Z">
         <seg>Ficheiros Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073252Z" creationid="Pedro Albuquerque" creationdate="20210505T073252Z">
+        <seg>Comparar maiúsculas</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073208Z" creationid="Pedro Albuquerque" creationdate="20210505T073208Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OK</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072202Z" creationid="Pedro Albuquerque" creationdate="20210505T072202Z">
@@ -226,6 +330,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072918Z" creationid="Pedro Albuquerque" creationdate="20210505T072918Z">
         <seg>Pacote OMT criado com sucesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073035Z" creationid="Pedro Albuquerque" creationdate="20210505T073035Z">
+        <seg>Pacote OMT importado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073106Z" creationid="Pedro Albuquerque" creationdate="20210505T073106Z">
+        <seg>Projecto OMT empacotado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073059Z" creationid="Pedro Albuquerque" creationdate="20210505T073059Z">
+        <seg>A empacotar projecto OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073201Z" creationid="Pedro Albuquerque" creationdate="20210505T073201Z">
+        <seg>Por favor, insira um número inteiro entre 1 e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071950Z" creationid="Pedro Albuquerque" creationdate="20210505T071950Z">
@@ -298,6 +434,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072301Z" creationid="Pedro Albuquerque" creationdate="20210505T072301Z">
         <seg>Ficheiros Qt TS (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073224Z" creationid="Pedro Albuquerque" creationdate="20210505T073224Z">
+        <seg>Substituir</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073240Z" creationid="Pedro Albuquerque" creationdate="20210505T073240Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072135Z" creationid="Pedro Albuquerque" creationdate="20210505T072135Z">
@@ -418,6 +570,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072604Z" creationid="Pedro Albuquerque" creationdate="20210505T072604Z">
         <seg>Desempacotar o projecto de ficheiro OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073028Z" creationid="Pedro Albuquerque" creationdate="20210505T073028Z">
+        <seg>A desempacotar o pacote OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073232Z" creationid="Pedro Albuquerque" creationdate="20210505T073232Z">
+        <seg>Acima</seg>
       </tuv>
     </tu>
     <tu>
