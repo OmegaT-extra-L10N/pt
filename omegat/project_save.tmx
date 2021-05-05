@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073711Z" creationid="Pedro Albuquerque" creationdate="20210505T073711Z">
+        <seg>Caracteres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073541Z" creationid="Pedro Albuquerque" creationdate="20210505T073541Z">
@@ -142,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073731Z" creationid="Pedro Albuquerque" creationdate="20210505T073731Z">
+        <seg>Codificação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073213Z" creationid="Pedro Albuquerque" creationdate="20210505T073213Z">
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073513Z" creationid="Pedro Albuquerque" creationdate="20210505T073451Z">
         <seg>Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073740Z" creationid="Pedro Albuquerque" creationdate="20210505T073740Z">
+        <seg>Tamanho de ficheiro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073609Z" creationid="Pedro Albuquerque" creationdate="20210505T073609Z">
+        <seg>Localizar anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find what:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073346Z" creationid="Pedro Albuquerque" creationdate="20210505T073346Z">
@@ -194,6 +226,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073549Z" creationid="Pedro Albuquerque" creationdate="20210505T073549Z">
         <seg>Localizar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073858Z" creationid="Pedro Albuquerque" creationdate="20210505T073858Z">
+        <seg>Dobragem</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,10 +334,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073753Z" creationid="Pedro Albuquerque" creationdate="20210505T073753Z">
+        <seg>Última modificação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073137Z" creationid="Pedro Albuquerque" creationdate="20210505T073137Z">
         <seg>Número de linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073725Z" creationid="Pedro Albuquerque" creationdate="20210505T073725Z">
+        <seg>Final de linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073819Z" creationid="Pedro Albuquerque" creationdate="20210505T073819Z">
+        <seg>Linha: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073707Z" creationid="Pedro Albuquerque" creationdate="20210505T073707Z">
+        <seg>Linhas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +410,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072027Z" creationid="Pedro Albuquerque" creationdate="20210505T072027Z">
         <seg>Caminho em falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073826Z" creationid="Pedro Albuquerque" creationdate="20210505T073826Z">
+        <seg>Múltiplos marcadores nesta linha:</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073833Z" creationid="Pedro Albuquerque" creationdate="20210505T073833Z">
+        <seg>Ocorrência de "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T144141Z" creationid="Pedro Albuquerque" creationdate="20210504T144141Z">
@@ -442,6 +530,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210504T150335Z" creationid="Pedro Albuquerque" creationdate="20210504T150335Z">
         <seg>Opções de filtros Okapi XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073801Z" creationid="Pedro Albuquerque" creationdate="20210505T073801Z">
+        <seg>Macintosh antigo (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +598,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073658Z" creationid="Pedro Albuquerque" creationdate="20210505T073658Z">
+        <seg>CAminho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073201Z" creationid="Pedro Albuquerque" creationdate="20210505T073201Z">
         <seg>Por favor, insira um número inteiro entre 1 e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073846Z" creationid="Pedro Albuquerque" creationdate="20210505T073846Z">
+        <seg>Prima "F2" para foco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073654Z" creationid="Pedro Albuquerque" creationdate="20210505T073654Z">
+        <seg>Propriedades: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073644Z" creationid="Pedro Albuquerque" creationdate="20210505T073644Z">
+        <seg>Substituir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072254Z" creationid="Pedro Albuquerque" creationdate="20210505T072254Z">
@@ -606,6 +734,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073637Z" creationid="Pedro Albuquerque" creationdate="20210505T073637Z">
+        <seg>Shift+Enter executa uma substituição para trás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073559Z" creationid="Pedro Albuquerque" creationdate="20210505T073559Z">
+        <seg>Shift+Enter efectua uma pesquisa de trás para a frente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071930Z" creationid="Pedro Albuquerque" creationdate="20210505T071930Z">
@@ -618,6 +762,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072157Z" creationid="Pedro Albuquerque" creationdate="20210505T072157Z">
         <seg>Desculpe, houve um problema ao copiar o ficheiro de parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073811Z" creationid="Pedro Albuquerque" creationdate="20210505T073811Z">
+        <seg>Pré-definição do sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +826,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073240Z" creationid="Pedro Albuquerque" creationdate="20210505T073240Z">
         <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073801Z" creationid="Pedro Albuquerque" creationdate="20210505T073801Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,10 +910,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073802Z" creationid="Pedro Albuquerque" creationdate="20210505T073802Z">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072311Z" creationid="Pedro Albuquerque" creationdate="20210505T072311Z">
         <seg>Ficheiros Wordfast Pro TXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073714Z" creationid="Pedro Albuquerque" creationdate="20210505T073714Z">
+        <seg>Palavras:</seg>
       </tuv>
     </tu>
     <tu>
