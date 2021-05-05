@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072014Z" creationid="Pedro Albuquerque" creationdate="20210505T072014Z">
+        <seg>Ficheiros de parâmetros de filtragem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071549Z" creationid="Pedro Albuquerque" creationdate="20210504T150339Z">
         <seg>As definições dos filtros são actualmente &lt;b&gt;Específicas do projecto&lt;/b&gt;.&lt;br&gt;Por isso, depois de clicar em "Aceitar", o ficheiro de parâmetros será copiado para este local:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071913Z" creationid="Pedro Albuquerque" creationdate="20210505T071913Z">
+        <seg>Incluir o nome da unidade de tradução nos comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072027Z" creationid="Pedro Albuquerque" creationdate="20210505T072027Z">
+        <seg>Caminho em falta</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,6 +54,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071950Z" creationid="Pedro Albuquerque" creationdate="20210505T071950Z">
+        <seg>Proteger as entradas com state='final' (se não estiverem definidas, podem ser editadas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072020Z" creationid="Pedro Albuquerque" creationdate="20210505T072003Z">
+        <seg>Seleccione um ficheiro de parâmetros de filtragem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071930Z" creationid="Pedro Albuquerque" creationdate="20210505T071930Z">
+        <seg>Mostrar e proteger as entradas com translate='no' (se não estiver definido: não são extraídas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071627Z" creationid="Pedro Albuquerque" creationdate="20210505T071627Z">
@@ -42,6 +90,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071903Z" creationid="Pedro Albuquerque" creationdate="20210505T071903Z">
         <seg>Utilize o seguinte ficheiro de parâmetros de filtragem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072044Z" creationid="Pedro Albuquerque" creationdate="20210505T072044Z">
+        <seg>Tem de especificar um caminho.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
