@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072206Z" creationid="Pedro Albuquerque" creationdate="20210505T072206Z">
+        <seg>Cancelar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072150Z" creationid="Pedro Albuquerque" creationdate="20210505T072150Z">
+        <seg>Erro de cópia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072223Z" creationid="Pedro Albuquerque" creationdate="20210505T072223Z">
+        <seg>Ficheiros Doxygen comentados (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072014Z" creationid="Pedro Albuquerque" creationdate="20210505T072014Z">
@@ -22,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072229Z" creationid="Pedro Albuquerque" creationdate="20210505T072229Z">
+        <seg>Ficheiros HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072240Z" creationid="Pedro Albuquerque" creationdate="20210505T072240Z">
+        <seg>Ficheiros InDesign IDML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071913Z" creationid="Pedro Albuquerque" creationdate="20210505T071913Z">
@@ -30,10 +70,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072144Z" creationid="Pedro Albuquerque" creationdate="20210505T072144Z">
+        <seg>Há algum projecto aberto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072243Z" creationid="Pedro Albuquerque" creationdate="20210505T072243Z">
+        <seg>Ficheiros JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072246Z" creationid="Pedro Albuquerque" creationdate="20210505T072246Z">
+        <seg>Ficheiros Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072027Z" creationid="Pedro Albuquerque" creationdate="20210505T072027Z">
         <seg>Caminho em falta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072357Z" creationid="Pedro Albuquerque" creationdate="20210505T072357Z">
+        <seg>Nenhum elemento &lt;xliff&gt; encontrado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072053Z" creationid="Pedro Albuquerque" creationdate="20210505T072053Z">
+        <seg>Nenhum ficheiro de parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072118Z" creationid="Pedro Albuquerque" creationdate="20210505T072118Z">
+        <seg>Sem pasta de projecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072202Z" creationid="Pedro Albuquerque" creationdate="20210505T072202Z">
+        <seg>Aceitar</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072250Z" creationid="Pedro Albuquerque" creationdate="20210505T072250Z">
+        <seg>Ficheiros OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071950Z" creationid="Pedro Albuquerque" creationdate="20210505T071950Z">
         <seg>Proteger as entradas com state='final' (se não estiverem definidas, podem ser editadas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072301Z" creationid="Pedro Albuquerque" creationdate="20210505T072301Z">
+        <seg>Ficheiros Qt TS (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072254Z" creationid="Pedro Albuquerque" creationdate="20210505T072254Z">
+        <seg>Ficheiros SDL-XLIFF (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +198,54 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072157Z" creationid="Pedro Albuquerque" creationdate="20210505T072157Z">
+        <seg>Desculpe, houve um problema ao copiar o ficheiro de parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072307Z" creationid="Pedro Albuquerque" creationdate="20210505T072307Z">
+        <seg>Ficheiros TagEditor TTX (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072103Z" creationid="Pedro Albuquerque" creationdate="20210505T072103Z">
+        <seg>O ficheiro de parâmetros não existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072340Z" creationid="Pedro Albuquerque" creationdate="20210505T072340Z">
+        <seg>Falta o atributo da versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072323Z" creationid="Pedro Albuquerque" creationdate="20210505T072323Z">
+        <seg>Ficheiros de projecto Transifex (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072135Z" creationid="Pedro Albuquerque" creationdate="20210505T072135Z">
+        <seg>Impossível determinar a pasta do projecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071627Z" creationid="Pedro Albuquerque" creationdate="20210505T071627Z">
@@ -90,6 +258,30 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071903Z" creationid="Pedro Albuquerque" creationdate="20210505T071903Z">
         <seg>Utilize o seguinte ficheiro de parâmetros de filtragem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072311Z" creationid="Pedro Albuquerque" creationdate="20210505T072311Z">
+        <seg>Ficheiros Wordfast Pro TXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072327Z" creationid="Pedro Albuquerque" creationdate="20210505T072327Z">
+        <seg>Ficheiros XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072331Z" creationid="Pedro Albuquerque" creationdate="20210505T072331Z">
+        <seg>Ficheiros XLIFF-2 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
