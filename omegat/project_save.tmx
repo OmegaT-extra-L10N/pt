@@ -46,10 +46,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074007Z" creationid="Pedro Albuquerque" creationdate="20210505T074007Z">
+        <seg>Colapsar todos os comentários</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073940Z" creationid="Pedro Albuquerque" creationdate="20210505T073940Z">
+        <seg>Colapsar todas as dobras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074026Z" creationid="Pedro Albuquerque" creationdate="20210505T074026Z">
+        <seg>Colapsa todas as dobras de comentários.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073956Z" creationid="Pedro Albuquerque" creationdate="20210505T073956Z">
+        <seg>Colapsa todas as dobras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073541Z" creationid="Pedro Albuquerque" creationdate="20210505T073541Z">
         <seg>Assistência de conteúdo disponível</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074111Z" creationid="Pedro Albuquerque" creationdate="20210505T074111Z">
+        <seg>Copia a selecção actual para a área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074056Z" creationid="Pedro Albuquerque" creationdate="20210505T074056Z">
+        <seg>Copiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074116Z" creationid="Pedro Albuquerque" creationdate="20210505T074116Z">
+        <seg>Cortar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073242Z" creationid="Pedro Albuquerque" creationdate="20210505T073242Z">
         <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074134Z" creationid="Pedro Albuquerque" creationdate="20210505T074134Z">
+        <seg>Eliminar</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +226,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073213Z" creationid="Pedro Albuquerque" creationdate="20210505T073213Z">
         <seg>Erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074035Z" creationid="Pedro Albuquerque" creationdate="20210505T074035Z">
+        <seg>Expandir todas as dobras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074050Z" creationid="Pedro Albuquerque" creationdate="20210505T074050Z">
+        <seg>Expande todas as dobras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +678,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074145Z" creationid="Pedro Albuquerque" creationdate="20210505T074145Z">
+        <seg>Colar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073658Z" creationid="Pedro Albuquerque" creationdate="20210505T073658Z">
         <seg>CAminho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074204Z" creationid="Pedro Albuquerque" creationdate="20210505T074204Z">
+        <seg>Coloca o texto na área de transferência no local actual no ficheiro de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +754,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073313Z" creationid="Pedro Albuquerque" creationdate="20210505T073313Z">
         <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074129Z" creationid="Pedro Albuquerque" creationdate="20210505T074129Z">
+        <seg>Retira a selecção actual e coloca-a na área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074142Z" creationid="Pedro Albuquerque" creationdate="20210505T074142Z">
+        <seg>Remove a selecção actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T074112Z" creationid="Pedro Albuquerque" creationdate="20210505T074112Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072307Z" creationid="Pedro Albuquerque" creationdate="20210505T072307Z">
@@ -810,6 +930,22 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072340Z" creationid="Pedro Albuquerque" creationdate="20210505T072340Z">
         <seg>Falta o atributo da versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073911Z" creationid="Pedro Albuquerque" creationdate="20210505T073911Z">
+        <seg>Alternar dobra actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T073928Z" creationid="Pedro Albuquerque" creationdate="20210505T073928Z">
+        <seg>Alterna a dobragem na posição do cursor.</seg>
       </tuv>
     </tu>
     <tu>
