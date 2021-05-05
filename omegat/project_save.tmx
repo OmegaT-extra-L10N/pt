@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072507Z" creationid="Pedro Albuquerque" creationdate="20210505T072507Z">
+        <seg>Correspondência aproximada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072444Z" creationid="Pedro Albuquerque" creationdate="20210505T072444Z">
+        <seg>Problemas de correspondências aproximadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072229Z" creationid="Pedro Albuquerque" creationdate="20210505T072229Z">
@@ -126,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072403Z" creationid="Pedro Albuquerque" creationdate="20210505T072403Z">
+        <seg>Nenhum elemento no ficheiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OK</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072202Z" creationid="Pedro Albuquerque" creationdate="20210505T072202Z">
@@ -158,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072650Z" creationid="Pedro Albuquerque" creationdate="20210505T072650Z">
+        <seg>Empacotar e eliminar projecto...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072630Z" creationid="Pedro Albuquerque" creationdate="20210505T072630Z">
+        <seg>Empacotar projecto como ficheiro OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071950Z" creationid="Pedro Albuquerque" creationdate="20210505T071950Z">
@@ -178,6 +218,14 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072254Z" creationid="Pedro Albuquerque" creationdate="20210505T072254Z">
         <seg>Ficheiros SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072530Z" creationid="Pedro Albuquerque" creationdate="20210505T072530Z">
+        <seg>Segmento que começa com um prefixo de correspondência aproximada</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072604Z" creationid="Pedro Albuquerque" creationdate="20210505T072604Z">
+        <seg>Desempacotar o projecto de ficheiro OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T071627Z" creationid="Pedro Albuquerque" creationdate="20210505T071627Z">
@@ -282,6 +338,30 @@
       </tuv>
       <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072331Z" creationid="Pedro Albuquerque" creationdate="20210505T072331Z">
         <seg>Ficheiros XLIFF-2 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072412Z" creationid="Pedro Albuquerque" creationdate="20210505T072412Z">
+        <seg>Ficheiros XML (Okapi - XML Filter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072418Z" creationid="Pedro Albuquerque" creationdate="20210505T072418Z">
+        <seg>Ficheiros XML (Okapi - XML Stream Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="pt" changeid="Pedro Albuquerque" changedate="20210505T072421Z" creationid="Pedro Albuquerque" creationdate="20210505T072421Z">
+        <seg>Ficheiros YAML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
